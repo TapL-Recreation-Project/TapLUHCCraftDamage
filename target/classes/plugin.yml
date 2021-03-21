@@ -1,0 +1,7 @@
+name: TapLUHCCraftDamage
+version: 1.0-SNAPSHOT
+main: dev.yhdiamond.tapluhccraftdamage.TapLUHCCraftDamage
+api-version: 1.16
+softdepend:
+  - TapLUHCCore
+

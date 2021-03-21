@@ -1,0 +1,7 @@
+name: TapLUHCCraftDamage
+version: ${project.version}
+main: dev.yhdiamond.tapluhccraftdamage.TapLUHCCraftDamage
+api-version: 1.16
+softdepend:
+  - TapLUHCCore
+
